@@ -1,0 +1,60 @@
+# ======================
+# Node / React / MERN
+# ======================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Environment Variables
+# ======================
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ======================
+# Build / Dist folders
+# ======================
+
+dist/
+build/
+
+# ======================
+# Logs
+# ======================
+
+logs/
+*.log
+
+# ======================
+# OS files
+# ======================
+
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE / Editor files
+# ======================
+
+.vscode/
+.idea/
+*.swp
+
+# ======================
+# Coverage
+# ======================
+
+coverage/
+
+# ======================
+# Optional (if using)
+# ======================
+
+.cache/
+.eslintcache
